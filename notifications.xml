@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
     <notification groupId="Angular CLI" />
+    <notification groupId="Vcs Important Messages" shouldLog="false" />
   </component>
 </application>
