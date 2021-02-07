@@ -1,5 +1,6 @@
 <application>
   <component name="TodoConfiguration">
+    <multiLine>false</multiLine>
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern pattern="todo" />
