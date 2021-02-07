@@ -2,7 +2,7 @@
   <component name="NotificationConfiguration">
     <notification groupId="Angular CLI" />
     <notification groupId="Branch Context group" displayType="NONE" />
-    <notification groupId="Vcs Important Messages" shouldLog="false" />
+    <notification groupId="Vcs Important Messages" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Vcs Notifications" displayType="NONE" />
   </component>
 </application>
