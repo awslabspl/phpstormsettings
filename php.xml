@@ -9,7 +9,7 @@
       <interpreter name="PHP 7.3">
         <phpinfo binary_type="PHP" php_cli="/usr/bin/php" path_separator=":" version="7.3.24-(to be removed in future macOS)">
           <additional_php_ini />
-          <configuration_file />
+          <configuration_file>/etc/php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="include_path" value=".:" />
           </configuration_options>
