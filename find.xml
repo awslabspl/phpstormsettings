@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../docs/infos/packages.html'" />
-    <option name="defaultScopeName" value="File '.../docs/infos/packages.html'" />
-    <option name="SEARCH_SCOPE" value="File '.../docs/infos/packages.html'" />
+    <option name="customScope" value="File '.../tests/js/math-tests.js'" />
+    <option name="defaultScopeName" value="File '.../tests/js/math-tests.js'" />
+    <option name="SEARCH_SCOPE" value="File '.../tests/js/math-tests.js'" />
   </component>
 </application>
