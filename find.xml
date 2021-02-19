@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../tests/js/filesaver-test.js'" />
-    <option name="defaultScopeName" value="File '.../tests/js/filesaver-test.js'" />
-    <option name="SEARCH_SCOPE" value="File '.../tests/js/filesaver-test.js'" />
+    <option name="customScope" value="Project 'diagnostics-php'" />
+    <option name="defaultScopeName" value="Project 'diagnostics-php'" />
+    <option name="SEARCH_SCOPE" value="Project 'diagnostics-php'" />
   </component>
 </application>
