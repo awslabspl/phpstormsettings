@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../Utils/js'" />
-    <option name="defaultScopeName" value="Directory '.../Utils/js'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../Utils/js'" />
+    <option name="customScope" value="File '.../Utils/json/cve-api-params.json'" />
+    <option name="defaultScopeName" value="File '.../Utils/json/cve-api-params.json'" />
+    <option name="SEARCH_SCOPE" value="File '.../Utils/json/cve-api-params.json'" />
   </component>
 </application>
