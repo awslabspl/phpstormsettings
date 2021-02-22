@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".markdownlint" type="JSON" />
       <mapping pattern=".reverted" type="Markdown" />
+      <removed_mapping ext="scss" approved="true" type="CSS" />
     </extensionMap>
   </component>
 </application>
