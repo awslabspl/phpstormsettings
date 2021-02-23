@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/awslabspl/reactapp" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="wojciechlisik@icloud.com" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/TOSHIBA250/Mac/git" />
