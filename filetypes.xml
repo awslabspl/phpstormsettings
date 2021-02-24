@@ -5,6 +5,7 @@
       <mapping pattern=".markdownlint" type="JSON" />
       <mapping pattern=".reverted" type="Markdown" />
       <removed_mapping ext="scss" approved="true" type="CSS" />
+      <removed_mapping ext="sql" approved="true" type="DBN-SQL" />
     </extensionMap>
   </component>
 </application>
