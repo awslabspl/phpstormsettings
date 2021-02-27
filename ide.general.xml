@@ -7,4 +7,11 @@
   <component name="Registry">
     <entry key="documentation.show.toolbar" value="true" />
   </component>
+  <component name="StatusBar">
+    <option name="widgets">
+      <map>
+        <entry key="DBNavigator.Project.DatasetEditorStatusBarWidgetFactory" value="false" />
+      </map>
+    </option>
+  </component>
 </application>
